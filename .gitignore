@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Database
+*.db
+
+# Environment variables
+.env
+
+# Mac junk
+.DS_Store
